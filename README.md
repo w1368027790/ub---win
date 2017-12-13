@@ -1,4 +1,6 @@
 # ub---win
+http://blog.csdn.net/zhangrelay/article/details/78418393
+
 https://developer.nvidia.com/cuda-downloads?target_os=Linux&target_arch=x86_64&target_distro=Ubuntu&target_version=1604&target_type=deblocal
 
 http://www.tensorflownews.com/2017/09/02/tensorflow-gpu-install-ubuntu-16-04/
