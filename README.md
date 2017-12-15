@@ -1,4 +1,6 @@
 # ub---win
+http://blog.topspeedsnail.com/archives/10116
+
 http://blog.csdn.net/zhangrelay/article/details/78418393
 
 https://developer.nvidia.com/cuda-downloads?target_os=Linux&target_arch=x86_64&target_distro=Ubuntu&target_version=1604&target_type=deblocal
