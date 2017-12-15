@@ -1,4 +1,6 @@
 # ub---win
+http://www.cnblogs.com/Duane/p/6776302.html
+
 http://blog.topspeedsnail.com/archives/10116
 
 http://blog.csdn.net/zhangrelay/article/details/78418393
