@@ -1,4 +1,6 @@
 # ub---win
+http://blog.exbot.net/archives/2972
+
 http://www.cnblogs.com/Duane/p/6776302.html
 
 http://blog.topspeedsnail.com/archives/10116
