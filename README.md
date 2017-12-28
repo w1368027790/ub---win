@@ -1,4 +1,7 @@
 # ub---win
+
+http://www.arduino.cn/thread-11266-1-1.html
+
 $ sudo su  #打开管理员权限
 $ apt-get install synaptic #安装新得立软件包管理器
 搜索synaptic，打开并更新所有可升级的软件包（可能会很慢），下载好安装完成后重启。ubuntu右上角的error消失，sudo apt-get update没有错误出现，ROS的rqt包也能安装了。
