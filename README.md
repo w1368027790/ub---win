@@ -1,5 +1,8 @@
 # ub---win
 
+https://jizhi.im/blog/post/install-dl-env-03 安装 使用gpu深度学习
+
+
 http://www.arduino.cn/thread-11266-1-1.html
 
 $ sudo su  #打开管理员权限
