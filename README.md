@@ -1,5 +1,7 @@
 # ub---win
 
+http://www.cnblogs.com/foxblogs/p/8179143.html
+
 https://jizhi.im/blog/post/install-dl-env-03 安装 使用gpu深度学习
 
 
