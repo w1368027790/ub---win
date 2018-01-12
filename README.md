@@ -1,4 +1,8 @@
 # ub---win
+saver：
+http://blog.csdn.net/u011500062/article/details/51728830
+
+
 错误：
 InvalidArgumentError (see above for traceback): Assign requires shapes of both tensors to match. lhs shape= [6] rhs shape= [2]
 	 [[Node: save/Assign_29 = Assign[T=DT_FLOAT, _class=["loc:@Variable_9"], use_locking=true, validate_shape=true, _device="/job:localhost/replica:0/task:0/device:CPU:0"](Variable_9/Adam_1, save/RestoreV2_29)]]
