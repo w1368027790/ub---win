@@ -1,7 +1,7 @@
 # ub---win
-saver：
-http://blog.csdn.net/u011500062/article/details/51728830
+tensorboard： http://lib.csdn.net/article/aiframework/67766
 
+saver：http://blog.csdn.net/u011500062/article/details/51728830
 
 错误：
 InvalidArgumentError (see above for traceback): Assign requires shapes of both tensors to match. lhs shape= [6] rhs shape= [2]
