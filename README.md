@@ -1,4 +1,7 @@
 # ub---win
+
+opencv: https://docs.opencv.org/3.4.0/index.html    http://blog.csdn.net/column/details/opencv-tutorial.html
+
 tensorboard： http://lib.csdn.net/article/aiframework/67766
 
 saver：http://blog.csdn.net/u011500062/article/details/51728830
