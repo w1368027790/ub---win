@@ -1,4 +1,6 @@
 # ub---win
+.eval（） ：eval() 函数用来执行一个字符串表达式，并返回表达式的值。还可以将字符串对应的名字的变量转换成该变量对应的值：
+
 pytorch: http://pytorch.apachecn.org/cn/0.3.0/
 
 opencv: https://docs.opencv.org/3.4.0/index.html    http://blog.csdn.net/column/details/opencv-tutorial.html
