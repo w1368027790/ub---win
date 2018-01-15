@@ -1,4 +1,6 @@
 # ub---win
+ TF图层指南：构建卷积神经网络 ： http://blog.csdn.net/u010859707/article/details/73201328
+
 .eval（） ：eval() 函数用来执行一个字符串表达式，并返回表达式的值。还可以将字符串对应的名字的变量转换成该变量对应的值：
 
 pytorch: http://pytorch.apachecn.org/cn/0.3.0/
