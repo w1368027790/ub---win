@@ -1,9 +1,14 @@
 # ub---win
+暂时保存： https://wenku.baidu.com/view/112149386fdb6f1aff00bed5b9f3f90f76c64d6c.html
+	https://danijar.com/materials/
+
 
 tensorflow基础全： http://blog.csdn.net/lenbow
         配套目录： http://blog.sina.com.cn/s/blog_53dd83fd0102x37w.html
 	构建： https://danijar.com/structuring-your-tensorflow-models/
- 
+rnn： http://wiki.jikexueyuan.com/project/tensorflow-zh/tutorials/recurrent.html
+     http://blog.csdn.net/mydear_11000/article/details/52414342
+     http://m-4.me/tensorflow-rnn-apis/
  
  TF图层指南：构建卷积神经网络 ： http://blog.csdn.net/u010859707/article/details/73201328
 
