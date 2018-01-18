@@ -1,6 +1,8 @@
 # ub---win
+
 tensorflow基础全： http://blog.csdn.net/lenbow
         配套目录： http://blog.sina.com.cn/s/blog_53dd83fd0102x37w.html
+	构建： https://danijar.com/structuring-your-tensorflow-models/
  
  
  TF图层指南：构建卷积神经网络 ： http://blog.csdn.net/u010859707/article/details/73201328
