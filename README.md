@@ -66,3 +66,9 @@ http://blog.csdn.net/qq_20259459/article/details/70316511
     batch_mean, batch_var = tf.nn.moments(x, axes = [0, 1, 2], keep_dims=True)，注意axes的输入。对于以feature map 为维度的全局归一化，若feature map 的shape 为[batch, height, width, depth]，则将axes赋值为[0, 1, 2]
 
     x 为输入的feature map 四维数据，offset、scale为一维Tensor数据，shape 等于 feature map 的深度depth。
+    
+    
+运动目标检测跟踪： http://blog.csdn.net/carson2005/article/details/7229797
+               https://www.cnblogs.com/zjb0823/p/3806333.html
+	       https://www.zhihu.com/question/26493945
+ 单目视觉的运动目标跟踪定位 硬创公开课
