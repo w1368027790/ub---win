@@ -1,4 +1,11 @@
 # ub---win
+opencv 的H范围是0~180，红色的H范围大概是(0~8)∪(160,180) 
+S是饱和度，一般是大于一个值,S过低就是灰色（参考值S>80)，0-255
+V是亮度，过低就是黑色，过高就是白色(参考值220>V>50)。0-255
+
+
+
+
 http://mp.weixin.qq.com/s/KGchk6IK6G9plp9I7miAqQ
 
 暂时保存： https://wenku.baidu.com/view/112149386fdb6f1aff00bed5b9f3f90f76c64d6c.html
