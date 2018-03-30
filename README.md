@@ -1,6 +1,7 @@
 # ub---win
 
-https://www.cnblogs.com/denny402/p/5166258.html
+遍历像素：https://blog.csdn.net/mokeding/article/details/17599585
+        https://blog.csdn.net/guiyiqixin/article/details/79342531
 
 http://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_houghlines/py_houghlines.html
 
