@@ -1,5 +1,7 @@
 # ub---win
 
+安装tf： https://zhuanlan.zhihu.com/p/28494550
+
 遍历像素：https://blog.csdn.net/mokeding/article/details/17599585
         https://blog.csdn.net/guiyiqixin/article/details/79342531
 
