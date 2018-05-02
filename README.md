@@ -1,4 +1,6 @@
 # ub---win
+faster-rcnn https://zhuanlan.zhihu.com/p/32230004
+qianyi study http://www.cnblogs.com/hellcat/tag/TensorFlow/default.html?page=2
 
 安装tf： https://zhuanlan.zhihu.com/p/28494550
 
