@@ -1,4 +1,6 @@
 # ub---win
+微调 https://kratzert.github.io/2017/02/24/finetuning-alexnet-with-tensorflow.html
+
 faster-rcnn https://zhuanlan.zhihu.com/p/32230004
 qianyi study http://www.cnblogs.com/hellcat/tag/TensorFlow/default.html?page=2
 
