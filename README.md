@@ -1,4 +1,6 @@
 # ub---win
+
+tracking： https://handong1587.github.io/deep_learning/2015/10/09/tracking.html
 微调 https://kratzert.github.io/2017/02/24/finetuning-alexnet-with-tensorflow.html
 
 faster-rcnn https://zhuanlan.zhihu.com/p/32230004
