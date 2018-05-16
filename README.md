@@ -1,4 +1,6 @@
 # ub---win
+代码解释：把光标放在目标代码上，按快捷键Ctrl + Shift + I  or把光标放在目标代码上，鼠标选择 View - Quick Definition（简略） \ Quick Documentation（详细，推荐）
+
 
 tracking： https://handong1587.github.io/deep_learning/2015/10/09/tracking.html
 微调 https://kratzert.github.io/2017/02/24/finetuning-alexnet-with-tensorflow.html
