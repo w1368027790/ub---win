@@ -1,4 +1,7 @@
 # ub---win
+2018-5-22  https://zhuanlan.zhihu.com/p/37121528 
+
+
 代码解释：把光标放在目标代码上，按快捷键Ctrl + Shift + I  or把光标放在目标代码上，鼠标选择 View - Quick Definition（简略） \ Quick Documentation（详细，推荐）
 
 
