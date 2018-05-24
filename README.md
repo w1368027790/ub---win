@@ -1,4 +1,11 @@
 # ub---win
+
+https://blog.csdn.net/yangyang_liu/article/details/70161386 
+python程序 terminate called after throwing an instance of 'std::bad_alloc' w
+https://stackoverflow.com/questions/41314316/tensorflow-mnist-terminate-called-after-throwing-an-instance-of-stdbad-alloc
+https://blog.csdn.net/u010190415/article/details/79941952
+tensorboard:command not found 
+
 2018-5-22  https://zhuanlan.zhihu.com/p/37121528   https://zhuanlan.zhihu.com/python-opencv-image-processing
            http://www.cnblogs.com/Anita9002/category/881999.html
 
