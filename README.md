@@ -1,5 +1,9 @@
 # ub---win
 
+tf-gpu安装： https://mirrors.tuna.tsinghua.edu.cn/help/tensorflow/
+
+
+
 python程序 terminate called after throwing an instance of 'std::bad_alloc' w
 在tensorflow教程深入mnist这一部分，如果照搬CNN代码，会出现terminate called after throwing an instance of 'std::bad_alloc'   what():  std::bad_alloc  Process finished with exit code 134 (interrupted by signal 6: SIGABRT)这个错误，这是因为一次测试10000幅mnist图像会导致电脑内存不足甚至死机，对此我们可以减少测试的数据集。
 
