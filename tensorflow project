@@ -1,0 +1,19 @@
+其他Tensorflow项目实现
+
+VGG16&GG19：https://github.com/machrisaa/tensorflow-vgg
+
+SSD：https://github.com/balancap/SSD-Tensorflow
+
+YOLO：https://github.com/nilboy/tensorflow-yolo
+
+DCGAN：https://github.com/carpedm20/DCGAN-tensorflow
+
+灰度图像着色：https://github.com/pavelgonchar/colornet
+
+NeuralStyle图像风格化：https://github.com/cysmith/neural-style-tf
+
+利用深度强化学习玩乒乓球游戏：https://github.com/DanielSlater/PyGamePlayer
+
+自动驾驶MarioKart赛车游戏：https://github.com/kevinhughes27/TensorKart 
+
+Deep Reinforcement Learning-Flappy Bird：https://github.com/yenchenlin/DeepLearningFlappyBird
