@@ -4,6 +4,7 @@ tf-gpu安装： https://blog.csdn.net/u011939755/article/details/72843397
             https://mirrors.tuna.tsinghua.edu.cn/help/tensorflow/
             https://blog.csdn.net/u010478564/article/details/78766702
 	    https://blog.csdn.net/jasonzhangoo/article/details/54866049
+	    https://blog.csdn.net/qq_30239975/article/details/69659911
 
 
 python程序 terminate called after throwing an instance of 'std::bad_alloc' w
