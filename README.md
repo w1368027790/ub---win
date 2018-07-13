@@ -1,5 +1,11 @@
 # ub---win
 
+语义博客：
+https://blog.csdn.net/Solomon1558/article/details/72824370
+https://blog.csdn.net/solomon1558/article/details/72824271
+https://zhuanlan.zhihu.com/p/39665894
+
+
 https://github.com/MorvanZhou/Tensorflow-Computer-Vision-Tutorial
 https://blog.csdn.net/u013717571/article/details/80726815
 tf-gpu安装： https://blog.csdn.net/u011939755/article/details/72843397
