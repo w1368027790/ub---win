@@ -1,5 +1,4 @@
 # ub---win
-http://xueshu.baidu.com/s?wd=paperuri%3A%2826b1aa08577b11f731ecc5c10cdbd597%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fieeexplore.ieee.org%2Fdocument%2F1717643%2F&ie=utf-8&sc_us=3315985166874654781
 
 深度学习程序实例https://github.com/udacity/deep-learning
 
