@@ -1,5 +1,7 @@
 # ub---win
 
+连这点非议都承受不住，怎么承受住王冠之重
+
 https://github.com/priya-dwivedi/Deep-Learning/tree/master/mask_rcnn_damage_detection
 深度学习程序实例https://github.com/udacity/deep-learning
 
