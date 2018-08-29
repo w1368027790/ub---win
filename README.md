@@ -4,6 +4,10 @@
 不管结果怎样，我们不必在意最后的结果，接下来迎接我们的，是自我科研的求索之路。路漫漫而修远兮，我们在科研的路上上下而求索。
 连这点非议都承受不住，怎么承受住王冠之重
 
+
+AI视觉医疗公司 ： 视见
+
+
 https://github.com/priya-dwivedi/Deep-Learning/tree/master/mask_rcnn_damage_detection
 深度学习程序实例https://github.com/udacity/deep-learning
 
